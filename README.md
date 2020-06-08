@@ -1,0 +1,1 @@
+This repository is a work done under SmartInternz Internship to create a SmartDocument Understanding Chatbot using IBM cloud Services like Watson assistant,watson discovery,node red. Youtube Link: "https://www.youtube.com/watch?v=ZQvru9zTK6A&feature=youtu.be"
